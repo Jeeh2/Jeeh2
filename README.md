@@ -1,9 +1,6 @@
 ## Olá! Eu sou a Jéssica Lima.
 
-- 🔭  Faço trabalho de criação de artes para redes sociais comerciais.
-- 📚 Estou estudando JavaScript, HTML5, CSS3 e UX design.
-- 🤔 Eu gostaria de ajuda em algumas ferramentas e termos que facilitem meu aprendizado.
-
+https://user-images.githubusercontent.com/103466154/173132725-968b21e4-20a5-418c-9643-9bff00fe31a3.mp4
 
 
 <div align="center">
