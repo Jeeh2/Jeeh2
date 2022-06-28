@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Jéssica Lima.
 
-https://user-images.githubusercontent.com/103466154/173139003-e4b1ccc1-06d6-46a5-b3f7-3d6a13f13124.mp4
 
 
 <div align="center">
